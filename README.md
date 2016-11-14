@@ -1,5 +1,5 @@
 # gausswp
-Wordpress with blank theme(underscores) with all lib and gulp settings.
+Blank theme(underscores) with all lib and gulp settings.
 
 Implemented:
 Normalize, 
